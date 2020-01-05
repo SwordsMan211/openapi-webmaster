@@ -5,3 +5,7 @@ spring:
     username: root
     driver-class-name: org.gjt.mm.mysql.Driver
     type: com.alibaba.druid.pool.DruidDataSource
+  rabbitmq:
+    port: 8800
+    host: rabbitmq.qfjava.cn
+  
